@@ -131,7 +131,17 @@ BBC, Earth's tropical Island -- Borneo (20:47)
 
 ## bats
 
+* echo-location (cf. blind or visually impaired people)
+* short calls
+* huge range 40-80 kHz
+* sound emitted through the nose rather than the mouth
 
 # Aquatic Animals
+
+## aquatic animals
+
+* crustaceans -- like insects -- produce sound by rubbing a toothed leg-file against one of the plates covering their body
+* fish species with swim-bladder -- like other insects -- membrane over the bladder, that oscilates by muscular effort
+* different system of hearing (hair-cells, otolith)
 
 # References {.allowframebreaks}
